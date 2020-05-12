@@ -1,1 +1,8 @@
+<<<<<<< .merge_file_a20512
 this is test 01 02020020222929 change lần 2
+=======
+this is test 01 02020020222929 tiếp tục chỉnh sửa
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+>>>>>>> .merge_file_a18772
